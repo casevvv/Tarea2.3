@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarea 2.3</string>
+    <string name="saludo">Hola Bienvenido</string>
+    <string name="et_descrip">Descripción</string>
+    <string name="vimages">Ver fotos</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_takephoto">Tomar foto</string>
+</resources>
